@@ -1,0 +1,107 @@
+*{
+    padding: 0;
+    margin: 0;
+    color: white;
+}
+
+#navbar{
+    height: 40px;
+    background-image: linear-gradient(to right, rgba(45, 9, 207, 0.3), rgb(1, 2, 37));
+    
+ #inside{
+    display: inline-block;
+    padding-left: 500px;
+    padding-top: 10px;
+ }   
+}
+
+a{
+    padding: 15px;
+  text-decoration: none;  
+}
+#divid2{
+    height: 500px;
+ background-image: url(pexels-taryn-elliott-8526684.jpg); 
+ background-size: cover;  
+ background-repeat: no-repeat;
+ background-position: center;
+ 
+}
+h1{
+   text-align: center;
+   padding-top: 250px;
+
+}
+p{text-align: center;
+padding: 15px;
+}
+#divid3{
+    height: 5px;
+    background-color: rgb(192, 129, 168);
+}
+#divid4{
+    height: 180px;
+    background-image: url(Screenshot_25-11-2024_192753_www.pexels.com.jpeg);
+    background-size: cover;  
+ background-repeat: no-repeat;
+ background-position: center;
+}
+h3{
+    padding-top: 60px;
+    text-align: center;
+    color: black;
+}
+#para2{
+    color: black;
+}
+#divid5{
+    height: 500px;
+    background-image: url(Screenshot_27-11-2024_9619_unsplash.com.jpeg);
+    background-size: cover;  
+ background-repeat: no-repeat;
+ background-position: center;
+ 
+}
+
+#box1{
+    height: 200px;
+    width: 200px;
+    margin: 15px;
+    background-image: url(Screenshot_29-11-2024_1314_unsplash.com.jpeg);
+    background-size: cover;  
+    background-repeat: no-repeat;
+    background-position: center;
+    display: inline-block;
+    margin-left: 350px;
+    
+}
+#box2{
+    height: 200px;
+    width: 200px;
+    margin: 15px;
+    background-image: url(Screenshot_29-11-2024_1314_unsplash.com.jpeg);
+    background-size: cover;  
+    background-repeat: no-repeat;
+    background-position: center;
+    display: inline-block;
+    
+}
+#box3{
+    height: 200px;
+    width: 200px;
+    margin: 15px;
+    background-image: url(Screenshot_29-11-2024_1314_unsplash.com.jpeg);
+    background-size: cover;  
+    background-repeat: no-repeat;
+    background-position: center;
+    display: inline-block;
+    
+}
+
+#para3{
+    color: black;
+}
+footer{
+    height: 40px;
+    background-color: rgb(58, 57, 57);
+}
